@@ -1,0 +1,35 @@
+Ada
+Sobczak
+Westlake Village	897-4200 Pretium St.
+0
+35253
+24031198420
+1
+Remigiusz
+Piotrowski
+San Luis Obispo	9864 Libero. Street
+0
+30012
+16072302955
+0
+Ola
+Górecka
+Chino Hills	Ap #189-3788 Eu Avenue
+0
+38346
+16092862967
+1
+Jadwiga
+Górecka
+Sheridan	350-5176 Adipiscing, Avenue
+1
+5952
+54021745949
+1
+Łucja
+Górecka
+Port Jervis	3528 Velit Street
+1
+4892
+12040101340
+1
